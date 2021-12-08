@@ -1,7 +1,7 @@
 {
   "defaults": {
     "recap": 60,
-    "title": [null, 90]
+    "title": [null, 90],
     "credits": -120
   },
   "episodes": {
