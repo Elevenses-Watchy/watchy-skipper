@@ -1,13 +1,17 @@
 {
+  "defaults": {
+    "recap": 60,
+    "title": [null, 8],
+    "credits": -90
+  },
   "episodes": {
     "1210999": {
-      "intro": [303, 8],
-      "credits": 3351
+      "recap": 0,
+      "title": [303],
+      "credits": -125
     },
     "1211002": {
-      "recap": 64,
-      "intro": [447, 8],
-      "credits": 3063
+      "title": [447]
     }
   }
 }
